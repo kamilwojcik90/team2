@@ -12,4 +12,6 @@ v1.1:
 
 [x] zwiększenie limitu do 50 lat bez ostrzeżenia
 
-[ ] lepsza obsługa osób j/w
+[x] lepsza obsługa osób j/w
+
+v1.2:
