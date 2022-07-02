@@ -1,4 +1,5 @@
 wiek = input("Podaj wiek użytkownika: ")
+plec = input("Podaj płeć użytkownika \n 'k'-kobieta \n 'm'-mężczyzna \n")
 #Sprawdzamy czy wiek jest złożony z cyfr
 if wiek.isdigit() == False:
     exit("Wiek mosi być podany jako liczba")
