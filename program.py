@@ -7,7 +7,7 @@ if plec = "k":
 elif plec = "m":
     print("Użytkownik jest mężczyzną.")
 else:
-    exit("Źle wpisana płeć.")
+    exit("Źle wpisany symbol płci.")
 
 #Sprawdzamy czy wiek jest złożony z cyfr
 if wiek.isdigit() == False:
